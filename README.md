@@ -6,7 +6,7 @@
 
 - 🧗‍ Rock Climbing
 - 🎸 Making Music
-- 🏓 Playing ping pong with my roommate Roman - this does not go well...for Roman
+- 🏓 Playing ping pong with my roommate Roman - this does not go well 
 
 #### I am:
 
