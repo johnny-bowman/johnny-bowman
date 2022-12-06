@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, and welcome to my GitHub! 👋
 
-<!--
-**johnny-bowman/johnny-bowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Johnny Bowman, a Software Developer with a background in Audio Engineering.
 
-Here are some ideas to get you started:
+#### When I'm not coding, I'm:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧗‍ Rock Climbing
+- 🎸 Making Music
+- 🏓 Playing ping pong with my roommate Roman - this does not go well...for Roman
+
+#### I am:
+
+- 🌱 A recent graduate of the [Turing School of Software and Design](https://terminal.turing.edu/profiles/1403)
+- 🔭 Currently working on learning JavaScript & TypeScript
+- 💬 A huge fan of chatting about building Web Apps & API's!
+- 📫 Reachable via my email at: johntbowman.production@gmail.com
+- ⚡ Hesistant and cautious regarding the current Pickleball craze  
