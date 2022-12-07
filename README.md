@@ -10,7 +10,7 @@
 
 #### I am:
 
-- 🌱 A recent graduate of the [Turing School of Software and Design](https://terminal.turing.edu/profiles/1403)
+- 🌱 A recent graduate of the Backend Engineering program at the [Turing School of Software and Design](https://terminal.turing.edu/profiles/1403)
 - 🔭 Currently working on learning JavaScript & TypeScript
 - 💬 A huge fan of chatting about building Web Apps & API's!
 - 📫 Reachable via my email at: johntbowman.production@gmail.com
